@@ -128,3 +128,16 @@ You can also train various modality combinations by ```bash train_sdstrack_rgbe.
 
 * Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library, which help us to quickly implement our ideas.
 * We Thank for the [ViPT](https://github.com/jiawen-zhu/ViPT), which is an excellent and inspiring work.
+
+## Citation
+If our work is useful for your research, please consider citing:
+  ```
+  @InProceedings{Hou_2024_CVPR,
+    author    = {Hou, Xiaojun and Xing, Jiazheng and Qian, Yijie and Guo, Yaowei and Xin, Shuo and Chen, Junhao and Tang, Kai and Wang, Mengmeng and Jiang, Zhengkai and Liu, Liang and Liu, Yong},
+    title     = {SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {26551-26561}
+}
+  ```
